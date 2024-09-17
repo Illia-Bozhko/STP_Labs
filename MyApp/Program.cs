@@ -13,7 +13,7 @@ namespace MyApp
         static void GreetUser(string name)
         {
             Console.WriteLine($"Hello, {name}!");
-        }
+        } 
 
     }
 }
